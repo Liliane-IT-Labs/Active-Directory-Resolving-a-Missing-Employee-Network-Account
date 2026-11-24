@@ -1,5 +1,3 @@
-# Active-Directory-Resolving-a-Missing-Employee-Network-Account
-
 # **Active Directory | Resolving a Missing Employee Network Account**
 
 ## **1. Employee Complaint**
@@ -25,6 +23,7 @@ My objective is to investigate the complaint, identify the root cause, create th
 | Domain          | CorpNet.local                        |
 
 ## **3. Troubleshooting Workflow**
+<img width="633" height="681" alt="image" src="https://github.com/user-attachments/assets/02f7013c-c26a-426e-b9a4-55e4f1138d0f" />
 
 ## **4. Step-by-Step Resolution**
 
