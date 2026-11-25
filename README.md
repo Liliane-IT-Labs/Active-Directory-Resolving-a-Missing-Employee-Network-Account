@@ -1,6 +1,6 @@
 # **Active Directory | Resolving a Missing Employee Network Account**
 
-## **1. Employee Complaint**
+## **1. Service Request | Impact: Low (one employee unable to access network resources) | Priority: P3 – Medium**
 
 > "I'm a new employee and I don't have a network account."
 
